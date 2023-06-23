@@ -103,5 +103,9 @@ int main() {
 	Queues q;
 	char ch;
 
-	while 
+	while (true) {
+		try {
+			cout << "Menu" << endl;
+		}
+	}
 }
